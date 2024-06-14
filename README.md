@@ -1,6 +1,6 @@
 # Codigo estudiante
 
-Codigo fuente de una simulacion de sistema de ventas.
+Codigo fuente de un simulacion de sistema de ventas.
 
 Funcionalidad del sistema, vea aqui: 
 
