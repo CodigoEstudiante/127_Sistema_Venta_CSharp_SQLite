@@ -1,0 +1,222 @@
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\FontAwesome.Sharp.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Inicio.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IVentas.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmNuevaVenta.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmBuscarVenta.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmListaVentas.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmNuevaCompra.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.ICompras.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmBuscarCompra.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmListaCompras.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IProductos.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmMantProducto.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmProductos.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmCargaMasiva.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmGenerarBarras.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Clientes.frmClientes.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Clientes.frmMantCliente.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Proveedores.frmMantProveedor.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Proveedores.frmProveedores.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IMantenimiento.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmMantUsuario_.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmUsuarios.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmPermisos.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmNegocio.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\DBVENTAS.db
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OOXML.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OpenXml4Net.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\BouncyCastle.Crypto.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OOXML.xml
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\BarcodeLib.dll
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdProductos.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdClientes.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdVentaExitosa.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdCompraExitosa.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdProveedores.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.frmLogin.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.mdAcercaDe.resources
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.exe.config
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.exe
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.pdb
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\CE VENTA FACIL.exe
+D:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\CE VENTA FACIL.pdb
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\DBVENTAS.db
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.exe.config
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.exe
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.pdb
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\BarcodeLib.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\DocumentFormat.OpenXml.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ExcelNumberFormat.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\FontAwesome.Sharp.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OOXML.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OpenXml4Net.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.EF6.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.Linq.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.IO.Packaging.dll
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\BouncyCastle.Crypto.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.pdb
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\DocumentFormat.OpenXml.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ExcelNumberFormat.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OOXML.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.xml
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Clientes.frmClientes.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Clientes.frmMantCliente.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmBuscarCompra.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmListaCompras.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmNuevaCompra.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmNegocio.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmMantUsuario_.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmPermisos.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmUsuarios.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdClientes.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdCompraExitosa.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdProductos.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdProveedores.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdVentaExitosa.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmCargaMasiva.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmGenerarBarras.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmMantProducto.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmProductos.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Proveedores.frmMantProveedor.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Proveedores.frmProveedores.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmBuscarVenta.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmListaVentas.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmNuevaVenta.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.frmLogin.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Inicio.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.ICompras.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IMantenimiento.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IProductos.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IVentas.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.mdAcercaDe.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\CE VENTA FACIL.exe
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\CE VENTA FACIL.pdb
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\039_PUNTO VENTA PORTABLE\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\DBVENTAS.db
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.exe.config
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.exe
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\CE VENTA FACIL.pdb
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\BarcodeLib.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\BouncyCastle.Crypto.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\DocumentFormat.OpenXml.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\ExcelNumberFormat.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\FontAwesome.Sharp.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OOXML.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OpenXml4Net.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.EF6.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.Linq.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\System.IO.Packaging.dll
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\BouncyCastle.Crypto.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.pdb
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\ClosedXML.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\DocumentFormat.OpenXml.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\ExcelNumberFormat.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\itextsharp.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\NPOI.OOXML.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\bin\Debug\System.Data.SQLite.xml
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Clientes.frmClientes.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Clientes.frmMantCliente.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmBuscarCompra.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmListaCompras.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Compras.frmNuevaCompra.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmNegocio.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmMantUsuario_.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmPermisos.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Mantenimiento.frmUsuarios.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdClientes.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdCompraExitosa.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdProductos.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdProveedores.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Modales.mdVentaExitosa.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmCargaMasiva.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmGenerarBarras.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmMantProducto.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Productos.frmProductos.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Proveedores.frmMantProveedor.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Proveedores.frmProveedores.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmBuscarVenta.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmListaVentas.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Formularios.Ventas.frmNuevaVenta.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.frmLogin.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Inicio.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.ICompras.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IMantenimiento.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IProductos.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Intermedios.IVentas.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.mdAcercaDe.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\Proyecto.csproj.Up2Date
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\CE VENTA FACIL.exe
+E:\WorkSpaceAD\YOUTUBE\127 Sistema venta en C# y SQLite\PuntoVentaPortable\Proyecto\obj\Debug\CE VENTA FACIL.pdb
